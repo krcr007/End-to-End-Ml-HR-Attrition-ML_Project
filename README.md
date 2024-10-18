@@ -121,7 +121,9 @@ The final step of the project is to deploy the best-performing machine learning 
 ├── app.py                         # Flask app for model deployment
 ├── model.pkl                      # Trained and saved model
 ├── requirements.txt               # Python dependencies
+├── Questions for visualtization   # Text File            
 └── README.md                      # Project overview
+
 ```
 ## **How to Run the Project**
 
