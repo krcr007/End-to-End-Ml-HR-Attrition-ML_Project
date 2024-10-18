@@ -45,12 +45,12 @@ Once we have insights from the EDA, the next step is to build and evaluate vario
    - Split the data into training and testing sets.
    
 2. **Modeling**:
-   We will evaluate multiple machine learning algorithms:
+   Algorithms that will be used are:
    - **Logistic Regression**
    - **Random Forest**
-   - **Gradient Boosting (XGBoost)**
    - **Support Vector Machine (SVM)**
-   - **Neural Networks (optional)**
+   - **K-Nearest Neighbours
+   
 
 3. **Evaluation**:
    - Models will be evaluated based on accuracy, precision, recall, F1-score, and ROC-AUC.
